@@ -1,1 +1,2 @@
-console.log("Git is awesome!")
+let Userinput = window.prompt("Enter something");
+alert(Userinput); 
